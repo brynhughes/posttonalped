@@ -29,7 +29,7 @@ of the discussions.
 
 ## Topics ##
 
-- [Tonal Music in the Undergraduate Post-Tonal Theory Curriculum](/tonal.html)  
-- [The Importance of Pitch-Class Set Theory in Today's Theory Class](/settheory.html)  
-- [Aural Skills and Post-Tonal Music Theory](/ptskills.html)
+- [Tonal Music in the Undergraduate Post-Tonal Theory Curriculum]({{ site.baseurl }}/tonal.html)  
+- [The Importance of Pitch-Class Set Theory in Today's Theory Class]({{ site.baseurl }}/settheory.html)  
+- [Aural Skills and Post-Tonal Music Theory]({{ site.baseurl }}/ptskills.html)
 
