@@ -15,3 +15,6 @@ As we consider what topics we should cover in the “fourth semester” of the u
 - What role do modes and collections play?
 - Other thoughts?
 - Does the current curriculum engage all the pieces, composers, and topics of tonal music that we think it should? If not, what do we need to do to make room for it?
+
+
+Take notes in [this Google Doc](https://docs.google.com/document/d/1swnBRkRrQDcUgrDM-YCQONonX0dtId7qAz9jwc0qrc8/edit?usp=sharing) so that the rest of the group can benefit from your discussion when we reconvene. 

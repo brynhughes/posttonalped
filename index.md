@@ -1,7 +1,10 @@
 ---
 layout: default
 title: Rethinking the Pedagogy of Post-Tonal Music
+authors: J. Daniel Jenkins, Bryn Hughes, Nancy Rogers, Adrian Childs
 ---
+
+*{{ page.authors }}*
 
 ## Abstract
 
@@ -26,4 +29,7 @@ of the discussions.
 
 ## Topics ##
 
-[Tonal Music in the Undergraduate Post-Tonal Theory Curriculum](/tonal.html)
+- [Tonal Music in the Undergraduate Post-Tonal Theory Curriculum](/tonal.html)  
+- [The Importance of Pitch-Class Set Theory in Today's Theory Class](/settheory.html)  
+- [Aural Skills and Post-Tonal Music Theory](/ptskills.html)
+
